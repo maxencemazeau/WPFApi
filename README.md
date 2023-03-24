@@ -32,3 +32,6 @@ npm install body-parser
 Pour l'application WPF :
 http
 Newtonsoft
+
+Note : 
+Le fichier API est à mettre dans un autre projet. Assurez vous d'avoir un fichier package.json
